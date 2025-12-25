@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SULTE4/weather-app.git"
+  },
+  "author": "Sultanbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SULTE4/weather-app/issues"
+  },
+  "homepage": "https://github.com/SULTE4/weather-app#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
